@@ -66,8 +66,6 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.write("")
-
 
 # ---------- INPUT CARD ----------
 st.markdown('<div class="container-card">', unsafe_allow_html=True)
@@ -155,3 +153,4 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
